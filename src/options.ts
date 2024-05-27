@@ -1,18 +1,18 @@
-import { IOption } from './app.interfece';
+import { IOption } from './app.interface'
 
 export const options: IOption[] = [{
-    value: 'russia',
+    value: 'Russia',
     label: 'Russia'
 },
 {
-    value: 'usa',
+    value: 'USA',
     label: 'USA'
 },
 {
-    value: 'china',
+    value: 'China',
     label: 'China'
 },
 {
-    value: 'germany',
+    value: 'Germany',
     label: 'Germany'
 },]
